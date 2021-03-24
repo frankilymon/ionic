@@ -1,0 +1,7 @@
+{
+  "name": "angular-ionic-feb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
